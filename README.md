@@ -68,7 +68,23 @@ Example of Redux
 
 ![Redux](images/redux.png)
 
-4. 
+4. Install Extension: Name: ES7+ React/Redux/React-Native snippets
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+5. Install router (create routes to react pages)
+
+``npm i react-router-dom``
+
+Note: Make sure you are in the Frontend folder
+
+6. Create a components folder > Header.jsx file 
+
+This is to keep the components seperate and manageable. (Headers.jsx will allow for navigation)
+
+``npm i react-icons`` 
+
+Note" Make sure you are in the Frontend folder when installing this module. 
 
 
 ## Resources
