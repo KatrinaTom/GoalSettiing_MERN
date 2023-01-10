@@ -39,7 +39,7 @@ npm start server
 ## Authentication
 To create Register user functionality, the data needs to be encrypted.
 
-Install Bcrypt: 
+Install Bcrypt:
 
 ``npm i bcryptjs``
 
@@ -57,6 +57,11 @@ Learn The MERN Stack - JWT Authentication
 
 Part 2: https://www.youtube.com/watch?v=-0exw-9YJBo
 
+Learn the MERN Stack - Frontend Authentication | Redux Toolkit
 
+Part 3: https://www.youtube.com/watch?v=mvfsC66xqj0
+
+
+## Important Websites
 
 JWT: https://jwt.io/
