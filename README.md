@@ -19,7 +19,7 @@ Note: ODM = Object Data Modelling
 To learn the MERN stack through practice. This project is to build from start to finish a Goal Setting applicaton.
 Making use of CRUD operations.
 
-## To run server
+## To run server (Beackend) 
 package.json was updated
 
 ```
@@ -76,7 +76,7 @@ https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snipp
 
 ``npm i react-router-dom``
 
-Note: Make sure you are in the Frontend folder
+**Note:** Make sure you are in the Frontend folder
 
 6. Create a components folder > Header.jsx file 
 
@@ -84,7 +84,7 @@ This is to keep the components seperate and manageable. (Headers.jsx will allow 
 
 ``npm i react-icons`` 
 
-Note" Make sure you are in the Frontend folder when installing this module. 
+**Note:** Make sure you are in the Frontend folder when installing this module. 
 
 
 ## Resources
