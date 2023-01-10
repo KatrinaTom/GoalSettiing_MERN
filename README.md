@@ -35,10 +35,28 @@ npm start server
 
 ```
 
+
+## Authentication
+To create Register user functionality, the data needs to be encrypted.
+
+Install Bcrypt: 
+
+``npm i bcryptjs``
+
+Install JSON Web Tokens:
+
+``npm i jsonwebtoken``
+
+
 ## Resources
 Traversy Media:
 
 Part 1: https://www.youtube.com/watch?v=-0exw-9YJBo
 
 Learn The MERN Stack - JWT Authentication
+
 Part 2: https://www.youtube.com/watch?v=-0exw-9YJBo
+
+
+
+JWT: https://jwt.io/
