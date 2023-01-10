@@ -47,6 +47,29 @@ Install JSON Web Tokens:
 
 ``npm i jsonwebtoken``
 
+## Redux - Frontend
+
+1. Install redux, the below is for latest, with a template and installing redux.
+
+``npx create-react-app@latest frontend --template redux``
+
+
+2. Update the backend package.json script to prefix the frontend redux app. 
+
+`` "client": "npm start --prefix frontend"``
+
+![package.json scripts](images/scripts.png)
+
+3. To run the frontend app:
+
+``npm run client``
+
+Example of Redux
+
+![Redux](images/redux.png)
+
+4. 
+
 
 ## Resources
 Traversy Media:
@@ -61,7 +84,15 @@ Learn the MERN Stack - Frontend Authentication | Redux Toolkit
 
 Part 3: https://www.youtube.com/watch?v=mvfsC66xqj0
 
+Git Repository: https://github.com/bradtraversy/mern-tutorial
+
 
 ## Important Websites
 
 JWT: https://jwt.io/
+
+Redux: https://redux-toolkit.js.org/
+
+Redux DevTools (Chrome Extension): https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en
+
+Note of interest: https://github.com/pmndrs/zustand
