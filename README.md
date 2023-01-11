@@ -82,7 +82,7 @@ https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snipp
 
 This is to keep the components seperate and manageable. (Headers.jsx will allow for navigation)
 
-``npm i react-icons`` 
+``npm i react-icons``
 
 **Note:** Make sure you are in the Frontend folder when installing this module. 
 
