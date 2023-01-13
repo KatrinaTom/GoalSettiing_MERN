@@ -134,6 +134,10 @@ Part 3: https://www.youtube.com/watch?v=mvfsC66xqj0
 
 Git Repository: https://github.com/bradtraversy/mern-tutorial
 
+Part 4: https://www.youtube.com/watch?v=UXjMo25Nnvc
+
+Learn The MERN Stack - Redux Goals & Deploy
+
 
 ## Important Websites
 
