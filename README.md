@@ -12,12 +12,17 @@
 * colors (view colours in error handling)
 * nodemon (automatic server restart)
 * express-async-handler (error handling)
+* concurrently (run backend and frontend together)
 
 Note: ODM = Object Data Modelling
 
 ## Project Overview
 To learn the MERN stack through practice. This project is to build from start to finish a Goal Setting applicaton.
 Making use of CRUD operations.
+
+## To run Frontend and Backend
+
+
 
 ## To run server (Beackend) 
 package.json was updated
@@ -78,14 +83,41 @@ https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snipp
 
 **Note:** Make sure you are in the Frontend folder
 
-6. Create a components folder > Header.jsx file 
+6. Create a components folder > Header.jsx file
 
 This is to keep the components seperate and manageable. (Headers.jsx will allow for navigation)
 
 ``npm i react-icons``
 
-**Note:** Make sure you are in the Frontend folder when installing this module. 
+**Note:** Make sure you are in the Frontend folder when installing this module.
 
+7. Show alerts and Promise based HTTP client for the browser and node.js.
+
+``npm i axios react-toastify``
+
+**Note:** Make sure you are in the Frontend folder when installing this module.
+
+8. Add a proxy to your frontend package.json file
+
+``"proxy:": "http://localhost:8000",``
+
+## Install Package to run concurrently
+
+``npm i -D concurrently``
+
+A developer dependancy, run Frontend and Backend together.
+
+**Note:** Make sure you are in the root folder when installing this module.
+
+Next add the script to the package.json file.
+
+![concurrently script](images/concurrently.png)
+
+To run
+
+``npm run dev``
+
+Should see Frontend start and then Backend start.
 
 ## Resources
 Traversy Media:
