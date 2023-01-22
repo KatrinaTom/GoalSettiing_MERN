@@ -119,6 +119,25 @@ To run
 
 Should see Frontend start and then Backend start.
 
+# Progress Snapshot
+
+* Mobile Web Responsive
+
+**DashBoard** 
+
+![Dashboard](images/progress/dashboard.png)
+
+**login**
+
+![Login](images/progress/login.png)
+
+**Register**
+
+![Register](images/progress/register.png)
+
+
+
+
 ## Resources
 Traversy Media:
 
