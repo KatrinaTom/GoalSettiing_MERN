@@ -24,7 +24,7 @@ Making use of CRUD operations.
 
 
 
-## To run server (Beackend) 
+## To run server (Backend) 
 package.json was updated
 
 ```
