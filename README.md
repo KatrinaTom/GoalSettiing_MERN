@@ -121,13 +121,15 @@ Should see Frontend start and then Backend start.
 
 # Progress Snapshot
 
+Date: 23 January 2023
+
 * Mobile Web Responsive
 
-**DashBoard** 
+**Dashboard** 
 
 ![Dashboard](images/progress/dashboard.png)
 
-**login**
+**Login**
 
 ![Login](images/progress/login.png)
 
