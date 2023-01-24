@@ -137,6 +137,11 @@ Date: 23 January 2023
 
 ![Register](images/progress/register.png)
 
+Date: 24 January 2023
+
+**Add a Goal**
+
+![Add Goal](images/progress/add_goal.png)
 
 
 
